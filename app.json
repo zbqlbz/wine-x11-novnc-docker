@@ -1,0 +1,8 @@
+{
+  "name": "wine",
+  "description": "Deploy Wine to Heroku.",
+  "keywords": ["wine"],
+  "stack": "container",
+  "website": "https://github.com/zbqlbz/wine-x11-novnc-docker",
+  "repository": "https://github.com/zbqlbz/wine-x11-novnc-docker"
+ }
